@@ -2,9 +2,11 @@
 
   Hey everyone! I am extremely delighted to be presented with the oppurtunity to build a website through my school's Advanced Placement Computer Science Principles class to give the world a little taste of who I am and what I am all about! 
 
+
 ### Who Am I?
 
   My name is Yash Zumale and I am fifteen years old, an American born Indian, I come from a family of four (my father, mother, and sister...it's her birthday today!!), and I attend Whitney High School as a sophomore and Sophomore President.
+
 
 ### What Am I About?
 
