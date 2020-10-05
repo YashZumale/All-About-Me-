@@ -18,6 +18,8 @@
 
 ^The image above represents my love for science. I especially love the fields of astronomy, marine biology, psychology, and computer science!
 
-  Here is a little fun fact about myself that I think you all might enjoy, I was voted as Class Clown in eight grade! As you might assume, I really enjoy laughing and making others laugh as well. I truly believe that laughter is the best medicince, espcially when your freinds, family, and other loved ones laugh with you. Feel free to check out why laughter is the best medicine through the link [here](https://www.forbes.com/sites/daviddisalvo/2017/06/05/six-science-based-reasons-why-laughter-is-the-best-medicine/#4b2fb7d47f04)
+  Adding on, here is a little fun fact about myself that I think you all might enjoy, I was voted as Class Clown in eight grade! As you might assume, I really enjoy laughing and making others laugh as well. I truly believe that laughter is the best medicince, espcially when your freinds, family, and other loved ones laugh with you. Feel free to check out why laughter is the best medicine through the link [here](https://www.forbes.com/sites/daviddisalvo/2017/06/05/six-science-based-reasons-why-laughter-is-the-best-medicine/#4b2fb7d47f04)
+  
+  Also, I really love to play and watch sports. I personally find all sports fun to play, but my favorites are surfing, bodyboarding, swimming, inline skating, cross country, basketball, tennis, badminton, and track. In additon to physical games, I also love to play video games such as Minecraft, Fortnite, Call of Duty, GTA, Among Us, Minion Rush, and Angry Birds.
   
   That's it for my "All About Me" page. I hope you got to know me better!
