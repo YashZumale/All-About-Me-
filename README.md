@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Yash's "All About Me" Page!
 
-You can use the [editor on GitHub](https://github.com/YashZumale/All-About-Me-/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+  Hey everyone! I am extremely delighted to be presented with the oppurtunity to build a website through my school's Advanced Placement Computer Science Principles class to give the world a little taste of who I am and what I am all about! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Who Am I?
 
-### Markdown
+  My name is Yash Zumale and I am fifteen years old, an American born Indian, I come from a family of four (my father, mother, and sister...it's her birthday today!!), and I attend Whitney High School as a sophomore and Sophomore President.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What Am I About?
 
-```markdown
-Syntax highlighted code block
+  I am all about about enjoying every single second of life and I do so by pursuing my many passions. It truly seems as if I am passionate about everything in life, however, some of things that I am really passionate about include learning, sports, reading, being in the outdoors, anything related to the beach, and SCIENCE!
 
-# Header 1
-## Header 2
-### Header 3
+![https://api.creativecommons.engineering/v1/thumbs/3d222a65-eabb-4134-86fd-f4ec42b409c1]
 
-- Bulleted
-- List
+![(https://api.creativecommons.engineering/v1/thumbs/1146d9d3-6452-43ca-8278-e5ad3979d42a]
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YashZumale/All-About-Me-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  Here is a little fun fact about myself that I think you all might enjoy, I was voted as Class Clown in eight grade! As you might assume, I really enjoy laughing and making others laugh as well. I truly believe that laughter is the best medicince, espcially when your freinds, family, and other loved ones laugh with you. Feel free to check out why laughter is the best medicine through the link below.
+  
+  (https://www.forbes.com/sites/daviddisalvo/2017/06/05/six-science-based-reasons-why-laughter-is-the-best-medicine/#4b2fb7d47f04)
+  
+  That's it for my "All About Me" page. I hope you got to know me better!
