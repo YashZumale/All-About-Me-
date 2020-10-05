@@ -9,7 +9,6 @@
 ### What Am I About?
 
   I am all about about enjoying every single second of life and I do so by pursuing my many passions. It truly seems as if I am passionate about everything in life, however, some of things that I am really passionate about include learning, sports, reading, being in the outdoors, anything related to the beach, and SCIENCE!
-](https://live.staticflickr.com/5201/5282929769_52e51c1843_b.jpg)
 
 ![https://www.flickr.com/photos/31195974@N05/5282929769](https://live.staticflickr.com/5201/5282929769_52e51c1843_b.jpg)
 
